@@ -3,9 +3,7 @@ import { Outlet } from "react-router-dom";
 
 const AdminLayout = () => {
   return (
-
     <div className="flex w-full min-h-screen">
-      
       {/* Admin SideBar */}
       <div className="flex- flex-1 flex-col">
         {/* Admin Header */}
